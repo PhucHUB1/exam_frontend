@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
       title: 'Travel App',
       theme: ThemeData(
         primarySwatch: Colors.purple,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: HomePage(),
     );
